@@ -1,7 +1,4 @@
 111
-<<<<<<< HEAD
 master
-=======
 chat
 chat2
->>>>>>> chat
